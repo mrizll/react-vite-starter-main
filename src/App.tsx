@@ -7,7 +7,7 @@ import Home from "pages/home";
 import About from "pages/about";
 
 const RootApp = () => {
-
+  // Comment
   return (
     <BrowserRouter>
       <Routes>
